@@ -8,7 +8,7 @@ Configura el pin del sensor DHT11
 dht_pin = machine.Pin(4)
 
 Configura la conexión Wi-Fi
-SSID = "TONYLECHE"
+SSID = "base"
 PASSWORD = "87654321011902"
 
 def connect_wifi():
