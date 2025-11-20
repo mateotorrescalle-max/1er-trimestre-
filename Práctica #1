@@ -4,7 +4,7 @@ import network
 import time
 
 Nombre de la red y contraseña para el Access Point
-SSID = "TABOADARIKO"
+SSID = "Torres"
 PASSWORD = "123456789"
 
 Configuración del punto de acceso
