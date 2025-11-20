@@ -13,3 +13,4 @@ print('Configuracion de red (IP/netmask/gw/DNS):', sta_if.ifconfig())
 do_connect('Torres', '123456789')
 
 }
+
